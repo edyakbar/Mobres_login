@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Agen Paket Internet</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_utama">Beranda</string>
+    <string name="title_activity_list_agen">List Agen</string>
+    <string name="title_activity_detail_agen">Detail Agenty</string>
+    <string name="title_activity_peta">Map</string>
+    <string name="title_activity_komentar">Komentar User</string>
+    <string name="title_activity_profil">Profil</string>
+
+    //dialog tentang
+    <string name="title">LBS Agen Pake Internet</string>
+    <string name="content_about">LBS Agen Paket Internet adalah aplikasi tentang Cari lokasi agen paket
+        internet yang terdekat dengan posisi pengguna di Kota Tegal yang anda inginkan kini lebih mudah dengan
+        menggunakan aplikasi ini.</string>
+    <string name="agen">Untuk Agen Paket Internet ingin mendaftar bisa hubungin Developer: WA 083129792693 (Rico Agnis M)</string>
+    <string name="OK">OK</string>
+    <string name="title_activity_bantuan">Bantuan Pengguna</string>
+    <string name="title_activity_feeback">Feeback Activity</string>
+    <string name="title_activity_feedback">Feedback User</string>
+    <string name="title_activity_provider">Provider</string>
+    <string name="title_activity_agen_kuota">AgenKuota</string>
+    <string name="title_activity_kuota">KuotaActivity</string>
+</resources>
