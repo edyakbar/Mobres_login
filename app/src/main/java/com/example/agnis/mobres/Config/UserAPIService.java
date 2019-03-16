@@ -59,9 +59,7 @@ public interface UserAPIService {
     @GET("get_all_kuota")
     Call<ValueProvider> get_all_kuota2();
 
-    @FormUrlEncoded
-    @POST("get_kuota")
-    Call<ValueProvider> getKuota(@Field("id_agen_kartu") String id_agen_kartu);
+
 
     @FormUrlEncoded
     @POST("get_agen_kuota")
