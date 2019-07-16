@@ -9,8 +9,10 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class Config {
 
-    public static final String BASE_URL = "https://adminagenkartu.000webhostapp.com/";
-    public static final String URL = "http://adminagenkartu.000webhostapp.com/Api/";
+//    public static final String BASE_URL = "https://adminagenkartu.000webhostapp.com/";
+//    public static final String URL = "http://adminagenkartu.000webhostapp.com/Api/";
+    public static final String BASE_URL = "http://192.168.1.6/adminagen";
+    public static final String URL = "http://192.168.1.6/adminagen/Api/";
     public static final String URL_IMG_AGEN = BASE_URL + "images/";
     public static final String URL_IMG_PROVIDER = BASE_URL + "images/";
     public static final String URL_IMG_PROFIL = BASE_URL + "images/";

@@ -25,4 +25,6 @@
     <string name="title_activity_provider">Provider</string>
     <string name="title_activity_agen_kuota">AgenKuota</string>
     <string name="title_activity_kuota">KuotaActivity</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="title_activity_update_profile">UpdateProfile</string>
 </resources>

@@ -35,6 +35,9 @@ public interface UserAPIService {
     @GET("get_all_kuota")
     Call<ValueKuota> get_all_kuota();
 
+    @POST("update_profil")
+    Call<ResponseBody> update_profil(@Body RequestBody file);
+
     @FormUrlEncoded
     @POST("get_nama")
     Call<ValueKuota> get_nama(@Field("nama_provider") String nama_provider);

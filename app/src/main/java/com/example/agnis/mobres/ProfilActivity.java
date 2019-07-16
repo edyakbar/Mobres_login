@@ -105,6 +105,14 @@ public class ProfilActivity extends AppCompatActivity {
                formUbahpass();
             }
         });
+
+        findViewById(R.id.btnUpdateProfile).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent= new Intent(ProfilActivity.this, UpdateProfile.class);
+                startActivity(intent);
+            }
+        });
     }
     //Untuk toolbar kembali ke Home
     @Override
